@@ -5,18 +5,12 @@ It supports desktop (PySide6), web (Django + React), and CLI interfaces through 
 
 ### Project Developer and Ownership
 
-**Developed By: Yoshita Namdev**
-
-- **Project Name:** OsdagBridge
 - **Author:** Yoshita Namdev
 - **Developer:** Yoshita Namdev
-- **Creator:** Yoshita Namdev
 - **Maintainer:** Yoshita Namdev
 - **Project Type:** Individual Project
-- **Submission Type:** Individual Software Testing and Issue Reporting Project
-- **Project Ownership:** Yoshita Namdev
 
-OsdagBridge is an individual software project submission written, developed, and maintained solely by Yoshita Namdev. All implementation, customization, testing, documentation, and integration in this project are authored exclusively by Yoshita Namdev with no other collaborators.
+OsdagBridge is an open-source structural engineering software plugin within the Osdag ecosystem (FOSSEE, IIT Bombay). In this individual project submission, **Yoshita Namdev** is the author, developer, and maintainer of the verified project-specific contributions—including the automated software testing framework (95 unit, integration, scenario, and reporting tests), input/output dictionary verification suites, CAD and structural plot validation, defect root-cause analysis and issue reporting, and automated PDF design report enhancements—while preserving all original upstream Osdag and third-party open-source credits.
 
 ---
 

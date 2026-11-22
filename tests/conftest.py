@@ -204,14 +204,14 @@ def evidence_tracker():
             self.evidence_dir = evidence_dir
 
         def save_json_snapshot(self, test_id: str, snapshot_name: str, data: Dict[str, Any]) -> str:
-            filename = f"{test_id}_{snapshot_name}_{int(time.time())}.json"
+            filename = f"{test_id}_{snapshot_name}.json"
             filepath = os.path.join(self.evidence_dir, filename)
             with open(filepath, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, default=str)
             return filepath
 
         def save_error_log(self, test_id: str, error_text: str) -> str:
-            filename = f"{test_id}_error_{int(time.time())}.txt"
+            filename = f"{test_id}_error.txt"
             filepath = os.path.join(self.evidence_dir, filename)
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(error_text)

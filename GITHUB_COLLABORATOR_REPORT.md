@@ -2,39 +2,30 @@
 
 ### Project Developer and Ownership
 
-**Developed By: Yoshita Namdev**
-
-- **Project Name:** OsdagBridge
 - **Author:** Yoshita Namdev
 - **Developer:** Yoshita Namdev
-- **Creator:** Yoshita Namdev
 - **Maintainer:** Yoshita Namdev
 - **Project Type:** Individual Project
-- **Submission Type:** Individual Software Testing and Issue Reporting Project
-- **Project Ownership:** Yoshita Namdev
 
-OsdagBridge is an individual software project submission written, developed, and maintained solely by Yoshita Namdev. All implementation, customization, testing, documentation, and integration in this project are authored exclusively by Yoshita Namdev with no other collaborators.
+OsdagBridge is an open-source structural engineering software plugin within the Osdag ecosystem (FOSSEE, IIT Bombay). In this individual project submission, **Yoshita Namdev** is the author, developer, and maintainer of the verified project-specific contributions—including the automated software testing framework, dictionary verification harnesses, CAD/plot validation scripts, defect root-cause analyses, and reporting enhancements—while preserving all original upstream Osdag and third-party open-source credits.
 
 ---
 
-
-## 1. Sole Individual Developer Declaration
+## 1. Individual Developer Declaration
 
 | Attribute | Verified Value |
 | :--- | :--- |
 | **Project Name** | OsdagBridge |
 | **Author** | Yoshita Namdev |
 | **Developer** | Yoshita Namdev |
-| **Creator** | Yoshita Namdev |
 | **Maintainer** | Yoshita Namdev |
 | **Project Type** | Individual Project |
-| **Submission Type** | Individual Software Testing and Issue Reporting Project |
-| **Project Ownership** | Sole Individual Developer |
 | **Developer Email** | `yoshitanamdev@gmail.com` |
 
 ---
 
 ## 2. Project Attribution & Scope
 
-1. **Sole Authorship:** All project code enhancements, automated testing infrastructure (95 unit, integration, and scenario tests), dictionary verification harnesses, CAD/plot validation scripts, defect root-cause analyses, and technical reports were written and authored exclusively by **Yoshita Namdev**.
-2. **No Collaborators, Co-Developers, or Co-Authors:** This project was written and developed by one person only (**Yoshita Namdev**). All other collaborators have been removed, and no co-developers or co-authors participated in this work.
+1. **Project-Specific Authorship:** All project-specific software testing infrastructure (95 unit, integration, scenario, and reporting tests), input/output dictionary verification harnesses, CAD/plot validation scripts, defect root-cause analyses (`BUG-001` through `BUG-006`), automated PDF design report improvements, and technical documentation in this submission were developed and authored by **Yoshita Namdev**.
+2. **Individual Submission:** This project submission was completed as an individual project by **Yoshita Namdev**.
+3. **Upstream Open-Source Provenance:** Original upstream Osdag framework modules, third-party libraries (such as `ospgrillage`), copyright notices, and open-source licenses are preserved in accordance with open-source compliance standards.

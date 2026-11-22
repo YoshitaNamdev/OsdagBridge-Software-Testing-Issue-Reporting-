@@ -2,18 +2,12 @@
 
 ### Project Developer and Ownership
 
-**Developed By: Yoshita Namdev**
-
-- **Project Name:** OsdagBridge
 - **Author:** Yoshita Namdev
 - **Developer:** Yoshita Namdev
-- **Creator:** Yoshita Namdev
 - **Maintainer:** Yoshita Namdev
 - **Project Type:** Individual Project
-- **Submission Type:** Individual Software Testing and Issue Reporting Project
-- **Project Ownership:** Yoshita Namdev
 
-OsdagBridge is an individual software project submission developed and maintained by Yoshita Namdev. The project-specific implementation, customization, testing, documentation, and integration covered by this project are attributed to Yoshita Namdev.
+OsdagBridge is an open-source structural engineering software plugin within the Osdag ecosystem (FOSSEE, IIT Bombay). In this individual project submission, **Yoshita Namdev** is the author, developer, and maintainer of the verified project-specific contributions—including the automated software testing framework, dictionary verification suites, CAD and structural plot validation, defect root-cause analysis and issue reporting, and automated PDF design report enhancements—while preserving all original upstream Osdag and third-party open-source credits.
 
 ---
 **Project:** OsdagBridge — Automated Bridge Design Report Generation  

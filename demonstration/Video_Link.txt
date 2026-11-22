@@ -3,14 +3,10 @@ OSDAGBRIDGE VIDEO DEMONSTRATION RECORDING STATUS
 ================================================================================
 
 PROJECT NAME:              OsdagBridge
-DEVELOPED BY:              Yoshita Namdev
 AUTHOR:                    Yoshita Namdev
 DEVELOPER:                 Yoshita Namdev
-CREATOR:                   Yoshita Namdev
 MAINTAINER:                Yoshita Namdev
 PROJECT TYPE:              Individual Project
-SUBMISSION TYPE:           Individual Software Testing and Issue Reporting Project
-PROJECT OWNERSHIP:         Yoshita Namdev
 VIDEO TITLE:               OsdagBridge Short-Span Steel Plate Girder Testing & Verification Demo
 TARGET PLATFORM:           YouTube (Unlisted) / Google Drive (Direct Review Link)
 ACTUAL VIDEO URL:          PENDING_RECORDING

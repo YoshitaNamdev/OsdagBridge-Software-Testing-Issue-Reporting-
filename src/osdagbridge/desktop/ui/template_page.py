@@ -1867,20 +1867,18 @@ class CustomWindow(QWidget):
         help_menu.addAction(check_update_action)
 
     def show_about_dialog(self):
-        """Display the application About dialog crediting the individual developer."""
+        """Display the application About dialog crediting the individual developer and upstream Osdag project."""
         CustomMessageBox(
             title="About OsdagBridge",
-            text="Developed By: Yoshita Namdev",
+            text="OsdagBridge — Steel Bridge Analysis and Design",
             informativeText=(
-                "Project Name: OsdagBridge\n"
                 "Author: Yoshita Namdev\n"
                 "Developer: Yoshita Namdev\n"
-                "Creator: Yoshita Namdev\n"
                 "Maintainer: Yoshita Namdev\n"
-                "Project Type: Individual Project\n"
-                "Submission Type: Individual Software Testing and Issue Reporting Project\n"
-                "Project Ownership: Yoshita Namdev\n\n"
-                "OsdagBridge is an individual software project submission developed and maintained by Yoshita Namdev."
+                "Project Type: Individual Project\n\n"
+                "Project-specific testing, verification, issue reporting, and report generation "
+                "enhancements developed by Yoshita Namdev, built upon the upstream Osdag open-source "
+                "framework (FOSSEE, IIT Bombay)."
             ),
             dialogType=MessageBoxType.About
         ).exec()
