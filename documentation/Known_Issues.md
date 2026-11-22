@@ -2,14 +2,18 @@
 
 ### Project Developer and Ownership
 
-- **Project Name:** OsdagBridge
-- **Developer:** Ankit Shukla
-- **Creator:** Ankit Shukla
-- **Maintained By:** Ankit Shukla
-- **Project Type:** Individual Project
-- **Project Ownership:** Ankit Shukla
+**Developed By: Yoshita Namdev**
 
-OsdagBridge is an individual software project developed and maintained by Ankit Shukla. The project-specific implementation, customization, testing, documentation, and integration covered by this project are attributed to Ankit Shukla.
+- **Project Name:** OsdagBridge
+- **Author:** Yoshita Namdev
+- **Developer:** Yoshita Namdev
+- **Creator:** Yoshita Namdev
+- **Maintainer:** Yoshita Namdev
+- **Project Type:** Individual Project
+- **Submission Type:** Individual Software Testing and Issue Reporting Project
+- **Project Ownership:** Yoshita Namdev
+
+OsdagBridge is an individual software project submission developed and maintained by Yoshita Namdev. The project-specific implementation, customization, testing, documentation, and integration covered by this project are attributed to Yoshita Namdev.
 
 ---
 
@@ -19,7 +23,7 @@ This document tracks all confirmed software defects, limitations, and architectu
 
 ## 1. Confirmed Software Defects
 
-Detailed root cause analyses and code patches are cataloged in [`test_results/final_report/bug_register.csv`](file:///c:/Users/acer/Downloads/OsdagBridge-dev/test_results/final_report/bug_register.csv) and markdown drafts under [`test_results/final_report/github_issue_drafts/`](file:///c:/Users/acer/Downloads/OsdagBridge-dev/test_results/final_report/github_issue_drafts/).
+Detailed root cause analyses and code patches are cataloged in [`test_results/final_report/bug_register.csv`](../test_results/final_report/bug_register.csv) and markdown drafts under [`test_results/final_report/github_issue_drafts/`](../test_results/final_report/github_issue_drafts/).
 
 ### BUG-001: Unconditional Default Overwrite in `defaults.py`
 - **Severity:** Major | **Priority:** High

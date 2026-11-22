@@ -2,19 +2,23 @@
 
 ### Project Developer and Ownership
 
-- **Project Name:** OsdagBridge
-- **Developer:** Ankit Shukla
-- **Creator:** Ankit Shukla
-- **Maintained By:** Ankit Shukla
-- **Project Type:** Individual Project
-- **Project Ownership:** Ankit Shukla
+**Developed By: Yoshita Namdev**
 
-OsdagBridge is an individual software project developed and maintained by Ankit Shukla. The project-specific implementation, customization, testing, documentation, and integration covered by this project are attributed to Ankit Shukla.
+- **Project Name:** OsdagBridge
+- **Author:** Yoshita Namdev
+- **Developer:** Yoshita Namdev
+- **Creator:** Yoshita Namdev
+- **Maintainer:** Yoshita Namdev
+- **Project Type:** Individual Project
+- **Submission Type:** Individual Software Testing and Issue Reporting Project
+- **Project Ownership:** Yoshita Namdev
+
+OsdagBridge is an individual software project submission developed and maintained by Yoshita Namdev. The project-specific implementation, customization, testing, documentation, and integration covered by this project are attributed to Yoshita Namdev.
 
 ---
 
 **Project:** OsdagBridge (Plate Girder Highway Bridge Design and Automated Reporting)  
-**Author:** Ankit Shukla  
+**Author:** Yoshita Namdev  
 **Date:** November 18, 2026  
 **Document Version:** 2.0.0 (Comprehensive Final Documentation)  
 **Verification Target:** `Report_After.pdf` and Complete Reporting Subsystem  

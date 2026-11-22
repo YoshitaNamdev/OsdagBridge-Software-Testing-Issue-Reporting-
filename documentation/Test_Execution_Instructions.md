@@ -2,14 +2,18 @@
 
 ### Project Developer and Ownership
 
-- **Project Name:** OsdagBridge
-- **Developer:** Ankit Shukla
-- **Creator:** Ankit Shukla
-- **Maintained By:** Ankit Shukla
-- **Project Type:** Individual Project
-- **Project Ownership:** Ankit Shukla
+**Developed By: Yoshita Namdev**
 
-OsdagBridge is an individual software project developed and maintained by Ankit Shukla. The project-specific implementation, customization, testing, documentation, and integration covered by this project are attributed to Ankit Shukla.
+- **Project Name:** OsdagBridge
+- **Author:** Yoshita Namdev
+- **Developer:** Yoshita Namdev
+- **Creator:** Yoshita Namdev
+- **Maintainer:** Yoshita Namdev
+- **Project Type:** Individual Project
+- **Submission Type:** Individual Software Testing and Issue Reporting Project
+- **Project Ownership:** Yoshita Namdev
+
+OsdagBridge is an individual software project submission developed and maintained by Yoshita Namdev. The project-specific implementation, customization, testing, documentation, and integration covered by this project are attributed to Yoshita Namdev.
 
 ---
 
@@ -91,8 +95,8 @@ pytest tests/scenarios/ -v
 
 ## 4. Inspecting Execution Artifacts & Evidence
 
-- **Master Test Case Register:** [`test_results/final_report/master_test_case_register.csv`](file:///c:/Users/acer/Downloads/OsdagBridge-dev/test_results/final_report/master_test_case_register.csv)
-- **Execution Summary:** [`test_results/final_report/test_execution_summary.csv`](file:///c:/Users/acer/Downloads/OsdagBridge-dev/test_results/final_report/test_execution_summary.csv)
-- **Defect Register:** [`test_results/final_report/bug_register.csv`](file:///c:/Users/acer/Downloads/OsdagBridge-dev/test_results/final_report/bug_register.csv)
-- **Evidence Index:** [`test_results/final_report/evidence_index.csv`](file:///c:/Users/acer/Downloads/OsdagBridge-dev/test_results/final_report/evidence_index.csv)
-- **Comprehensive PDF Report:** [`test_results/final_report/OsdagBridge_Comprehensive_Testing_Report.pdf`](file:///c:/Users/acer/Downloads/OsdagBridge-dev/test_results/final_report/OsdagBridge_Comprehensive_Testing_Report.pdf)
+- **Master Test Case Register:** [`test_results/final_report/master_test_case_register.csv`](../test_results/final_report/master_test_case_register.csv)
+- **Execution Summary:** [`test_results/final_report/test_execution_summary.csv`](../test_results/final_report/test_execution_summary.csv)
+- **Defect Register:** [`test_results/final_report/bug_register.csv`](../test_results/final_report/bug_register.csv)
+- **Evidence Index:** [`test_results/final_report/evidence_index.csv`](../test_results/final_report/evidence_index.csv)
+- **Comprehensive PDF Report:** [`test_results/final_report/OsdagBridge_Comprehensive_Testing_Report.pdf`](../test_results/final_report/OsdagBridge_Comprehensive_Testing_Report.pdf)

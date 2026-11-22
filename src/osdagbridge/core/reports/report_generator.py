@@ -231,7 +231,7 @@ def preamble(project_name, job_number, report_date, report_version='Rev 0'):
 \\AddToHook{{shipout/before}}{{\\global\\boolfalse{{hasSDonPage}}}}
 
 \\title{{\\Large\\textbf{{OsdagBridge}} \\\\ \\normalsize Open Source Software for Steel Girder Bridge Design \\\\ \\vspace{{2cm}} \\large Design Report}}
-\\author{{}}
+\\author{{Yoshita Namdev}}
 \\date{{}}
 
 \\begin{{document}}

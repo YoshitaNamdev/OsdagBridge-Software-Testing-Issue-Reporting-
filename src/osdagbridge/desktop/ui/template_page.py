@@ -1870,15 +1870,17 @@ class CustomWindow(QWidget):
         """Display the application About dialog crediting the individual developer."""
         CustomMessageBox(
             title="About OsdagBridge",
-            text="Developed and Maintained by Ankit Shukla",
+            text="Developed By: Yoshita Namdev",
             informativeText=(
                 "Project Name: OsdagBridge\n"
-                "Developer: Ankit Shukla\n"
-                "Creator: Ankit Shukla\n"
-                "Maintained By: Ankit Shukla\n"
+                "Author: Yoshita Namdev\n"
+                "Developer: Yoshita Namdev\n"
+                "Creator: Yoshita Namdev\n"
+                "Maintainer: Yoshita Namdev\n"
                 "Project Type: Individual Project\n"
-                "Project Ownership: Ankit Shukla\n\n"
-                "OsdagBridge is an individual software project developed and maintained by Ankit Shukla."
+                "Submission Type: Individual Software Testing and Issue Reporting Project\n"
+                "Project Ownership: Yoshita Namdev\n\n"
+                "OsdagBridge is an individual software project submission developed and maintained by Yoshita Namdev."
             ),
             dialogType=MessageBoxType.About
         ).exec()

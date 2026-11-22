@@ -14,7 +14,6 @@ welcome_text: |
   This will install OsdagBridge with all required runtime components.
 
 channels:
-  - https://conda.anaconda.org/gsrathore
   - https://conda.anaconda.org/osdag
   - https://conda.anaconda.org/geompy
   - https://conda.anaconda.org/conda-forge

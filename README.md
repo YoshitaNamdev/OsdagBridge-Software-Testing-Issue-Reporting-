@@ -5,14 +5,18 @@ It supports desktop (PySide6), web (Django + React), and CLI interfaces through 
 
 ### Project Developer and Ownership
 
-- **Project Name:** OsdagBridge
-- **Developer:** Ankit Shukla
-- **Creator:** Ankit Shukla
-- **Maintained By:** Ankit Shukla
-- **Project Type:** Individual Project
-- **Project Ownership:** Ankit Shukla
+**Developed By: Yoshita Namdev**
 
-OsdagBridge is an individual software project developed and maintained by Ankit Shukla. The project-specific implementation, customization, testing, documentation, and integration covered by this project are attributed to Ankit Shukla.
+- **Project Name:** OsdagBridge
+- **Author:** Yoshita Namdev
+- **Developer:** Yoshita Namdev
+- **Creator:** Yoshita Namdev
+- **Maintainer:** Yoshita Namdev
+- **Project Type:** Individual Project
+- **Submission Type:** Individual Software Testing and Issue Reporting Project
+- **Project Ownership:** Yoshita Namdev
+
+OsdagBridge is an individual software project submission written, developed, and maintained solely by Yoshita Namdev. All implementation, customization, testing, documentation, and integration in this project are authored exclusively by Yoshita Namdev with no other collaborators.
 
 ---
 
@@ -180,7 +184,7 @@ Continuous integration runs automatically through GitHub Actions (`.github/workf
 
 OsdagBridge is part of the Osdag open-source ecosystem, promoting open-source tools for steel design education, research, and practice.
 
-**Developed and Maintained by Ankit Shukla** (Individual Project).
+**Developed By: Yoshita Namdev** (Individual Project).
 
 ---
 

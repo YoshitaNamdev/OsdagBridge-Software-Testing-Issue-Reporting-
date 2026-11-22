@@ -5,7 +5,12 @@ An issue was identified in module `osdagbridge.core.bridge_types.plate_girder.pl
 
 ## Project Developer & Author
 - **Project Name:** OsdagBridge
-- **Developer & Author:** Ankit Shukla (Sole Individual Developer — Individual Project)
+- **Author:** Yoshita Namdev
+- **Developer:** Yoshita Namdev
+- **Creator:** Yoshita Namdev
+- **Maintainer:** Yoshita Namdev
+- **Project Type:** Individual Project
+- **Submission Type:** Individual Software Testing and Issue Reporting Project
 
 ## Environment
 - **Operating System:** Microsoft Windows 11 Home (x64)
