@@ -46,7 +46,7 @@ OsdagBridge is an open-source structural engineering software plugin within the 
 
 ## 3. GitHub Fork URL Verification
 
-- **Required Fork Destination**: Personal GitHub fork (`https://github.com/yoshitanamdev/OsdagBridge-dev.git`).
+- **Required Fork Destination**: Personal GitHub repository (`https://github.com/YoshitaNamdev/OsdagBridge-Software-Testing-Issue-Reporting-.git`).
 - **Current Status**: **Ready for Remote Configuration**.
 - **Note**: The verified GitHub repository URL will be configured as the `origin` remote prior to pushing the final branch.
 
